@@ -1,0 +1,44 @@
+Nodetics Chrome Web Store & Mozilla Add-on Store Privacy Policies
+=================================================================
+
+Feedbro Privacy Policy
+----------------------
+
+Feedbro fully respects your privacy. 
+
+Feedbro feed reader
+- stores data only locally on your hard drive using chrome.storage.local API and HTML5 IndexedDB - it does not store anything on servers on the Internet
+- does NOT share any data about your feed reading habits, subscriptions or any personal information
+- does NOT access or change any information on the pages you visit (except to find RSS links on the page when you request it)
+
+Required extension permissions:
+- "Access your data for all websites"
+    This permission is needed so that Feedbro can read feeds from the URLs that you subscribe to. 
+- "Display notifications to you"
+    This permission is needed in order to display desktop notifications of new feed entries when a Rule is matched
+    with an action to show a desktop notification.
+- "Access browser tabs"	
+    This permission is needed in order to enable "Find Feeds on Current Tab" feature which helps you to quickly find
+    RSS/Atom feed links on the page that you are looking at. This is only done when the user requests it.
+- "Store unlimited amount of client-side data"
+    This permission is needed to ensure that chrome.storage.local can hold all the feed subscriptions, rules and settings data.
+
+Kanbanly Privacy Policy
+-----------------------
+
+Kanbanly fully respects your privacy.
+
+Kanbanly
+- Uses Google Tasks API to access/modify/save your tasks
+- Uses Google identity API to login
+- Does NOT collect or store any personal information about you or your actions locally or on the Internet servers
+
+Required extension permissions:
+- "Read and change your data on www.googleapis.com"
+    This is needed in order to access your Tasks using the Google Tasks API
+- "Read your browsing history"
+    Kanbanly does not read your browsing history. This is due to the fact that Kanbanly needs permission "tabs"
+    which is needed to open Kanbanly always in the same tab. Without this permission Kanbanly icon click would
+    open the extension always in a new tab which might cause synchronization problems.
+- "Display notifications"
+    This is needed in order to show Reminder alerts for the tasks that you have defined a deadline and a reminder.

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Feedbro - Feed Reader (Atom RSS RDF) with integrated Rule Engine</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+	
+	<meta name="description" content="Feedbro Feed Reader with an integrated Rule Engine - follow Atom/RSS/RDF based blogs and news effortlessly!">
+	<meta name="keywords" content="feed,reader,rss,atom,rdf,google,chrome,news,blogs,extension,opera,firefox,vivaldi">
+	
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/media.css" rel="stylesheet">
+	
+	<link rel="shortcut icon" href="favicon.ico" type="image/icon"> 
+	<link rel="icon" href="favicon.ico" type="image/icon">
+	
+	<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42250204-1', 'nodetics.com');
+  ga('send', 'pageview');
+	</script>
+	<base target="_blank"/>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand nav-link" href="#top">Nodetics</a>
+        </div> <!-- /.navbar-header -->
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+		<!--
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Features</a></li>
+            <li><a href="#">Tour</a></li>
+            <li><a href="#">About Us</a></li>
+          </ul>
+		-->  
+        </div> <!-- /.navbar-collapse -->
+      </div> <!-- /.container -->
+    </nav> <!-- /.navbar -->
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Feedbro <a href="https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa"><img src="shots/reader128.png" title="Icon by Asher Abbasi @ kyo-tux.deviantart.com"></a></h1>
+        <br>
+        <h2>Fast <a href="http://en.wikipedia.org/wiki/Web_feed">feed reader</a> as a browser extension for Google <a href="https://www.google.com/intl/en/chrome/browser/">Chrome</a>, <a href="https://vivaldi.com/?lang=en">Vivaldi</a> and <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> for reading blogs, news or any <a href="http://en.wikipedia.org/wiki/RSS">RSS</a>, <a href="http://en.wikipedia.org/wiki/Atom_(standard)">Atom</a> or <a href="http://web.resource.org/rss/1.0/spec">RDF</a> based feed.
+		<!--
+		<p>
+		<br>
+		Integrated with advanced rule engine, tag support, notifications and more!
+		</p>
+		<br>
+		-->
+		<br><br>
+		<p>
+		<a href="https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa" class="btn btn-primary btn-lg" role="button">Visit Chrome Web Store to Install for Chrome/Vivaldi</a>
+		<br><br>
+		<a href="https://addons.mozilla.org/en-GB/firefox/addon/feedbroreader/" class="btn btn-primary btn-lg" role="button">Visit Firefox Add-on Store to Install for Firefox</a>
+		</p>
+		</h2>
+      </div> <!-- /.container -->
+    </div> <!-- /.jumbotron -->
+
+    <div class="spacer"></div>
+
+    <div class="container">
+	
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Why Feedbro?</h3>
+          <p>
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+          <p>
+			We believe <b>time</b> is our <b>most valuable asset</b>. 
+		  <p>
+		  <p>
+			We believe it is waste of valuable time to spend minutes or even hours every day to go through
+			dozens of websites, blogs, social media sites etc. manually.
+		  </p>
+		  <p>
+			We believe that all the new information that you are interested in, should be automatically aggregated into one place from
+			various sources you care about (both Internet and intranet) into easy-to-read format
+			and automatically <b>filtered</b> based on the <b>rules</b> you define.
+          </p>
+		  <p>
+			We believe that the faster you learn, gain new knowledge and information the better you
+			will succeed in life as an individual and as an organization. Therefore it is vital to
+			<b>learn new things every day</b> and follow relevant and valuable sources
+			of information effortlessly.
+		  </p>
+		  <p>
+			We believe <b>privacy</b> is important so that only you know what sources you follow.
+		  </p>
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+	  
+      <div class="spacer"></div>
+	
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Tree-based feed navigation with folders and drag &amp; drop support</h3>
+          <p>
+            You can create folders (e.g. based on category) and use them to group similar feeds.
+			Feeds and folders can be arranged with a mouse by using drag &amp; drop. This makes it 
+			easy to read e.g. all new feed items in folder "Leadership" (just click the folder).
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+		  <a href="shots/operaview.png"><img src="shots/operaview.png" class="feature-photo"></a>
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+	  
+      <div class="spacer"></div>
+
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Advanced Rule Engine</h3>
+          <p>
+            You can create Rules that are triggered either when a new article arrives (is loaded from the source)
+			or when an article is viewed. Rules can use article title, author and content as an input for rule conditions.
+          </p>
+		  <p>
+			Rule conditions support scanning based on words, text fragment, regular expression and "all", "any", "none" type
+			grouping logic.
+		  </p>
+		  <p>
+			Rules can trigger actions such as desktop notification (using Chrome notification system), sound effect,
+			highlighting of the article border, hiding or deleting the article, adding a tag, marking the article as a favorite or
+			highlighting certain words or parts of the content text.
+		  </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+          <!-- <img src="img/stock1.jpg" class="feature-photo"> -->
+		  <img src="shots/ruleengine.png" class="feature-photo">
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>
+	  
+	  
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Feed autodiscovery</h3>
+          <p>
+            It is very easy to add new feed subscriptions to Feedbro. Just open the blog or
+			website with your browser, click the Feedbro icon and select "Find Feeds in Current Tab".
+			Feedbro will automatically find all the RSS, Atom and RDF feeds linked to the page and
+			let's you subscribe to selected feeds with two clicks.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+          <!-- <img src="img/stock1.jpg" class="feature-photo"> -->
+		  <img src="shots/autodiscover.png" class="feature-photo">
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>
+
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Tagging system with autocomplete and search</h3>
+          <p>
+            You can quickly add custom tags to articles. When typing the tag, Feedbro uses
+			autocomplete based on existing tag names to help you complete the tag quicker. 
+			Tags main menu shows all given tags and many many articles are associated to those
+			tags. You can search for articles with a specific tag by simply clicking the tag name
+			in Tags view or the article view when hovering on top of the tag list with a mouse.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+		  <img src="shots/tags.png" class="feature-photo">
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>
+
+	  <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>Multiple browsing and viewing modes</h3>
+          <p>
+            View all, view all in a folder, view all in a feed, view all with a tag.
+			View complete articles or just headlines.
+			Optionally view only unread articles. Sort articles either newest first or oldest first.
+			View only articles that are newer than specified date.
+		  </p>	
+		  <p>	
+			Also supports <b>Opera RSS reader</b> style three column view - feed list - article title list - article body!
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+		  <a href="shots/magazineview.png"><img src="shots/magazineview.png" class="feature-photo"></a>
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>	  
+
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>UI Themes</h3>
+          <p>
+		  Feedbro supports Light, Dark and Aqua UI themes.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+		  <a href="shots/newsview.png"><img src="shots/newsview.png" class="feature-photo"></a>
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>
+
+      <div class="row">
+        <div class="col-md-4 col-sm-6 feature-text">
+          <h3>MathJax support</h3>
+          <p>
+		  Feedbro has built-in support for LaTeX and TeX that are used to display mathematical formulas and symbols. Enable in Options.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-8 col-sm-6">
+		  <a href="shots/mathjax-and-sharing.png"><img src="shots/mathjax-and-sharing.png" class="feature-photo"></a>
+        </div> <!-- /.col-md-8 -->
+      </div> <!-- /.row -->
+
+      <div class="spacer"></div>
+	  
+      <div class="row">
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>Desktop notifications</h3>
+          <p>
+			Based on the Rule Engine rules that you have defined Feedbro can show notifications on the Desktop when
+			for example an article is posted in specific blog, by some certain author or contains certain keywords.
+		  </p>	
+        </div> <!-- /.feature-text -->
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>Social sharing</h3>
+          <p>
+            Article sharing via: Twitter, Facebook, Google+, LinkedIn, Delicious, Digg, StumbleUpon, Reddit, Tumblr, FriendFeed, Instapaper, Yammer, Pocket, Evernote, Gmail and installed Email-client.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>OPML support - Import &amp; export feed subscriptions</h3>
+          <p>
+            Import existing feed subscriptions as an OPML file or export subscriptions from Feedbro as OPML. 
+          </p>
+        </div> <!-- /.feature-text -->
+      </div> <!-- /.row -->
+	  
+      <div class="spacer"></div>
+
+      <div class="row">
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>Keyboard shortcuts</h3>
+          <p>
+            Powerful keyboard shortcuts (very similar to Google Reader) make
+			browsing even faster.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>Feed specific settings</h3>
+          <p>
+            Feed specific polling delay to check new articles (even with 1 minute frequency) and
+			feed specific setting how many articles to store.
+          </p>
+        </div> <!-- /.feature-text -->
+        <div class="col-md-4 col-sm-4 feature-text">
+          <h3>Simple interface for removing inactive feeds</h3>
+          <p>
+            Feed statistics main menu in Feedbro shows a list of all subscribed feeds and
+			some key meta data about them such as when was the latest article posted to the 
+			feed or if there were any errors when accessing the feed last time (loading timeout,
+			invalid XML etc). Feedbro can automatically select feeds that have posts older than X days
+			so you can remove these 'dead' feeds quickly by pressing just one button.
+          </p>
+        </div> <!-- /.feature-text -->
+      </div> <!-- /.row -->
+
+
+	  
+    </div> <!-- /.container -->
+
+	
+	
+    <footer>
+      <div class="container clearfix">
+        <p class="pull-left">
+          Copyright &copy; Nodetics
+        </p>
+        <p class="pull-right">
+          
+        </p>
+      </div> <!-- /.container -->
+    </footer>
+
+    <!--
+      <script src="js/jquery.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+    -->
+  </body>
+</html>

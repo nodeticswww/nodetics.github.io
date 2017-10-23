@@ -1,0 +1,125 @@
+body {
+  font-size: 14px;
+}
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: helvetica, arial, sans-serif;
+}
+.container {
+  max-width: 960px;
+}
+.btn {
+  border-radius: 3em;
+}
+.navbar {
+  background: transparent;
+  border: none;
+  padding: 0.5em 0;
+  margin-bottom: 0;
+}
+.navbar .navbar-brand {
+  color: #000;
+  font-family: georgia, serif;
+  font-weight: bold;
+}
+.navbar ul.nav li a {
+  color: #111;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 1.5em;
+}
+.navbar ul.nav li a:hover {
+  color: #000;
+}
+.navbar ul.nav li button {
+  margin: 0.7em 0 0 1em;
+}
+.feature-photo {
+  width: 100%;
+}
+.feature-text h3 {
+  margin: 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+.feature-text p {
+  line-height: 1.5em;
+  margin: 1em 0;
+}
+.spacer {
+  margin: 3em 0;
+}
+.jumbotron {
+  background: #f0f0f0;
+  background-image: url(../img/stock-mba1.jpg);
+  background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #333;
+  padding-top: 2em;
+  height: 500px;
+  text-align: left;
+  margin: 0;
+}
+.jumbotron h1 {
+  background: #fff;
+  display: inline-block;
+  font-size: 1.5em;
+  margin-bottom: 0;
+  padding: 0.5em;
+  text-transform: uppercase;
+}
+.jumbotron h2 {
+  background: #fff;
+  color: #333;
+  display: inline-block;
+  font-size: 0.75em;
+  font-weight: normal;
+  padding: 0.75em 1.1em;
+  line-height: 1.4em;
+  max-width: 66%;
+}
+footer {
+  background: #111;
+  color: #fff;
+  padding: 1.2em 0 0.6em;
+  margin-top: 3em;
+}
+@media screen and (max-width: 1200px) {
+  .jumbotron {
+    height: 350px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .jumbotron {
+    height: 300px;
+    padding-top: 1em;
+  }
+  .feature-photo {
+    margin: 0.1em 0;
+  }
+  .jumbotron h2 {
+    max-width: 100%;
+  }
+  .navbar ul.nav li {
+    text-align: center;
+  }
+  .navbar ul.nav li button {
+    margin: 1em 0;
+  }
+  .media-benefit {
+    margin-bottom: 2em;
+  }
+}
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  .jumbotron {
+    font-size: 12px;
+    height: 150px;
+    padding-top: 0.1em;
+  }
+  footer .pull-right {
+    display: none;
+  }
+}
