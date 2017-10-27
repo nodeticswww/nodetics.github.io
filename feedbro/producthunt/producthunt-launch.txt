@@ -36,7 +36,7 @@ Step 3 // MEDIA
 * Gallery picture 3 URL: https://nodetics.com/feedbro/producthunt/ss-3.png
 * Gallery picture 4 URL: https://nodetics.com/feedbro/producthunt/ss-4.png
 * Gallery picture 5 URL: https://nodetics.com/feedbro/producthunt/ss-5.png
-* Gallery picture 5 URL: https://nodetics.com/feedbro/producthunt/ss-6.png
+* Gallery picture 6 URL: https://nodetics.com/feedbro/producthunt/ss-6.png
 * Suggestions: N/A
 
 Step 4 // MAKERS
