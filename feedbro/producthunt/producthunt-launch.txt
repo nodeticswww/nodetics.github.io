@@ -1,0 +1,47 @@
+Hello!
+
+Would you like to do a good deed of the day and be kind enough to post our product
+on Product Hunt please? You'll gain good karma and people who will discover our product will thank you.
+Please let us know if you decide to invest a few minutes of your valuable time for this. Thank you!
+
+Best regards,
+Feedbro Developer
+
+Ideal launch date Tue/Wed/Thu at 00:01:00 PST (UTC-8)
+
+Product Hunt Master Plan
+
+Step 0 // VISIT PH WEBSITE TO POST
+* https://www.producthunt.com/posts/new
+
+Step 1 // LINK
+* Add link: https://nodetics.com/feedbro
+
+Step 2 // INFO
+* Name: Feedbro Reader
+* Tagline: Feed Reader with built-in Rule Engine for filtering content
+* Link: https://nodetics.com/feedbro
+* Add Additional link 1:
+  https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa
+* Add Additional link 2:
+  https://addons.mozilla.org/en-GB/firefox/addon/feedbroreader/
+* Category: Chrome Extensions
+* Topics: Productivity, Chrome Extensions, Firefox Extensions
+* Status: Available Now
+
+Step 3 // MEDIA
+* Thumbnail URL: https://nodetics.com/feedbro/producthunt/thumbnail.png
+* Gallery picture 1 URL: https://nodetics.com/feedbro/producthunt/ss-1.png
+* Gallery picture 2 URL: https://nodetics.com/feedbro/producthunt/ss-2.png
+* Gallery picture 3 URL: https://nodetics.com/feedbro/producthunt/ss-3.png
+* Gallery picture 4 URL: https://nodetics.com/feedbro/producthunt/ss-4.png
+* Gallery picture 5 URL: https://nodetics.com/feedbro/producthunt/ss-5.png
+* Gallery picture 5 URL: https://nodetics.com/feedbro/producthunt/ss-6.png
+* Suggestions: N/A
+
+Step 4 // MAKERS
+* Add these URLs
+* https://www.producthunt.com/@feedbro
+
+
+
