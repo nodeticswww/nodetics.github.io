@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Cryptocurrencies" text="Cryptocurrencies">
+      <outline text="Crypto Mining Blog" title="Crypto Mining Blog" type="rss" 
+            xmlUrl="http://cryptomining-blog.com/feed/" htmlUrl="http://cryptomining-blog.com"/>
+      <outline text="CoinDesk" title="CoinDesk" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/CoinDesk" htmlUrl="https://www.coindesk.com" entryContent="3"/>
+      <outline text="CryptoCoinsNews" title="CryptoCoinsNews" type="rss" 
+            xmlUrl="https://www.cryptocoinsnews.com/feed/" htmlUrl="https://www.ccn.com" entryContent="3"/>
+      <outline text="CryptoCoinMastery" title="CryptoCoinMastery" type="rss" 
+            xmlUrl="https://cryptocoinmastery.com/feed/" htmlUrl="https://cryptocoinmastery.com"/>
+      <outline text="CoinFunda" title="CoinFunda" type="rss" 
+            xmlUrl="https://coinfunda.com/feed/" htmlUrl="https://coinfunda.com" entryContent="3"/>
+      <outline text="Altcoin Today" title="Altcoin Today" type="rss" 
+            xmlUrl="http://www.altcointoday.com/feed/" htmlUrl="http://www.altcointoday.com" entryContent="3"/>
+      <outline text="CryptoPotato" title="CryptoPotato" type="rss" 
+            xmlUrl="https://cryptopotato.com/feed/" htmlUrl="https://cryptopotato.com"/>
+      <outline text="Crypto Insider – Bitcoin News" title="Crypto Insider – Bitcoin News" type="rss" 
+            xmlUrl="https://cryptoinsider.com/content/feed/index.html" htmlUrl="https://cryptoinsider.com"/>
+      <outline text="Bitcoin News" title="Bitcoin News" type="rss" 
+            xmlUrl="https://news.bitcoin.com/feed/" htmlUrl="https://news.bitcoin.com"/>
+      <outline text="CryptoJunction" title="CryptoJunction" type="rss" 
+            xmlUrl="https://cryptojunction.com/feed/" htmlUrl="https://cryptojunction.com"/>
+      <outline text="99 Bitcoins" title="99 Bitcoins" type="rss" 
+            xmlUrl="https://99bitcoins.com/feed/" htmlUrl="https://99bitcoins.com" entryContent="3"/>
+      <outline text="Coin Noob" title="Coin Noob" type="rss" 
+            xmlUrl="http://coinnoob.com/feed" htmlUrl="http://coinnoob.com"/>
+      <outline text="Great Wall of Numbers" title="Great Wall of Numbers" type="rss" 
+            xmlUrl="http://www.ofnumbers.com/feed/" htmlUrl="http://www.ofnumbers.com"/>
+      <outline text="Neighbourhood Pool Watch" title="Neighbourhood Pool Watch" type="rss" 
+            xmlUrl="http://organofcorti.blogspot.com/feeds/posts/default" htmlUrl="http://organofcorti.blogspot.com/"/>
+      <outline text="Home | hashingit.com" title="Home | hashingit.com" type="rss" 
+            xmlUrl="http://hashingit.com/?format=feed&amp;type=atom" htmlUrl="http://hashingit.com" entryContent="3"/>
+      <outline text="Richard Gendal Brown" title="Richard Gendal Brown" type="rss" 
+            xmlUrl="https://gendal.me/feed/" htmlUrl="https://gendal.me"/>
+      <outline text="Bitcoin Magazine" title="Bitcoin Magazine" type="rss" 
+            xmlUrl="https://bitcoinmagazine.com/feed" htmlUrl="https://bitcoinmagazine.com"/>
+      <outline text="Finance Magnates | Financial and business news" title="Finance Magnates | Financial and business news" type="rss" 
+            xmlUrl="https://www.financemagnates.com/feed/" htmlUrl="https://www.financemagnates.com" entryContent="3"/>
+      <outline text="iCoin Blog" title="iCoin Blog" type="rss" 
+            xmlUrl="https://icoinblog.com/feed/" htmlUrl="https://icoinblog.com"/>
+      <outline text="The Right Trader" title="The Right Trader" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkpMhY4N4ZjpqKMIjzLplKw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkpMhY4N4ZjpqKMIjzLplKw"/>
+      <outline text="Cointelegraph.com News" title="Cointelegraph.com News" type="rss" 
+            xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com" entryContent="2"/>
+      <outline text="NEWSBTC" title="NEWSBTC" type="rss" 
+            xmlUrl="http://www.newsbtc.com/feed/" htmlUrl="http://www.newsbtc.com"/>
+      <outline text="Stories by Jimmy Song on Medium" title="Stories by Jimmy Song on Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/@jimmysong" htmlUrl="https://medium.com/@jimmysong?source=rss-4acb12744ff8------2"/>
+      <outline text="Gemini" title="Gemini" type="rss" 
+            xmlUrl="https://gemini.com/feed/" htmlUrl="https://gemini.com"/>
+      <outline text="SpectroCoin blog" title="SpectroCoin blog" type="rss" 
+            xmlUrl="https://blog.spectrocoin.com/en/feed/" htmlUrl="https://blog.spectrocoin.com"/>
+      <outline text="Bitcoin Millionaire" title="Bitcoin Millionaire" type="rss" 
+            xmlUrl="https://www.bitcoin-millionaire.com/feed/" htmlUrl="https://www.bitcoin-millionaire.com" entryContent="3"/>
+      <outline text="Cryptocurrency How-To" title="Cryptocurrency How-To" type="rss" 
+            xmlUrl="https://tsakf.org/feed/rss" htmlUrl="https://tsakf.org/"/>
+      <outline text="Bits on blocks" title="Bits on blocks" type="rss" 
+            xmlUrl="https://bitsonblocks.net/feed/" htmlUrl="https://bitsonblocks.net" entryContent="3"/>
+      <outline text="Blockchain Blog" title="Blockchain Blog" type="rss" 
+            xmlUrl="https://blog.blockchain.com/feed/" htmlUrl="https://blog.blockchain.com"/>
+      <outline text="ForkLog" title="ForkLog" type="rss" 
+            xmlUrl="http://forklog.net/feed/" htmlUrl="http://forklog.net"/>
+      <outline text="Kraken Blog" title="Kraken Blog" type="rss" 
+            xmlUrl="https://blog.kraken.com/feed/" htmlUrl="https://blog.kraken.com"/>
+      <outline text="Bitfinex blog" title="Bitfinex blog" type="rss" 
+            xmlUrl="http://blog.bitfinex.com/feed/" htmlUrl="http://blog.bitfinex.com"/>
+      <outline text="Ethereum Blog" title="Ethereum Blog" type="rss" 
+            xmlUrl="https://blog.ethereum.org/feed/" htmlUrl="https://blog.ethereum.org"/>
+      <outline text="Official Changelly Blog" title="Official Changelly Blog" type="rss" 
+            xmlUrl="https://changelly.com/blog/feed/" htmlUrl="https://changelly.com/blog"/>
+      <outline text="Wirex Business Digest - Medium" title="Wirex Business Digest - Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/wirex-business-digest" htmlUrl="https://medium.com/wirex-business-digest?source=rss----aae4ba5e9c06---4"/>
+      <outline text="Ethereum World News" title="Ethereum World News" type="rss" 
+            xmlUrl="http://ethereumworldnews.com/feed/" htmlUrl="http://ethereumworldnews.com"/>
+      <outline text="Purse Blog - Medium" title="Purse Blog - Medium" type="rss" 
+            xmlUrl="https://blog.purse.io/feed" htmlUrl="https://blog.purse.io?source=rss----cbd25c4b09be---4"/>
+      <outline text="Bravenewcoin.com" title="Bravenewcoin.com" type="rss" 
+            xmlUrl="https://bravenewcoin.com/news/rss" htmlUrl="https://bravenewcoin.com/news/rss" entryContent="2"/>
+      <outline text="CoinJar Blog" title="CoinJar Blog" type="rss" 
+            xmlUrl="https://blog.coinjar.com/feed/" htmlUrl="https://blog.coinjar.com" entryContent="2"/>
+      <outline text="The best bitcoin exchanges" title="The best bitcoin exchanges" type="rss" 
+            xmlUrl="https://www.bestbitcoinexchange.io/feed/" htmlUrl="https://www.bestbitcoinexchange.io"/>
+      <outline text="Bitcoin Garden" title="Bitcoin Garden" type="rss" 
+            xmlUrl="http://bitcoingarden.org/feed/" htmlUrl="http://bitcoingarden.org"/>
+      <outline text="CoinSpectator Blog" title="CoinSpectator Blog" type="rss" 
+            xmlUrl="https://blog.coinspectator.com/feed/" htmlUrl="https://blog.coinspectator.com" entryContent="2"/>
+      <outline text="Bitcoin Chaser" title="Bitcoin Chaser" type="rss" 
+            xmlUrl="http://bitcoinchaser.com/feed/" htmlUrl="http://bitcoinchaser.com"/>
+      <outline text="Bitcoin Network, News, Charts, Guides &#38; Analysis" title="Bitcoin Network, News, Charts, Guides &#38; Analysis" type="rss" 
+            xmlUrl="http://www.livebitcoinnews.com/feed/" htmlUrl="http://www.livebitcoinnews.com" entryContent="2"/>
+      <outline text="Bitcoin PR Buzz" title="Bitcoin PR Buzz" type="rss" 
+            xmlUrl="http://bitcoinprbuzz.com/feed/" htmlUrl="http://bitcoinprbuzz.com"/>
+      <outline text="A blog by Vinny Lingham - Medium" title="A blog by Vinny Lingham - Medium" type="rss" 
+            xmlUrl="https://vinnylingham.com/feed" htmlUrl="https://vinnylingham.com?source=rss----a97cf438b5d1---4"/>
+      <outline text="usethebitcoin.com" title="usethebitcoin.com" type="rss" 
+            xmlUrl="https://usethebitcoin.com/feed/" htmlUrl="https://usethebitcoin.com" entryContent="2"/>
+      <outline text="ZyCrypto" title="ZyCrypto" type="rss" 
+            xmlUrl="https://zycrypto.com/feed/" htmlUrl="https://zycrypto.com"/>
+      <outline text="wearetheledger - Medium" title="wearetheledger - Medium" type="rss" 
+            xmlUrl="https://medium.com/feed/wearetheledger" htmlUrl="https://medium.com/wearetheledger?source=rss----11d0abb28c9c---4"/>
+      <outline text="Bitcoin XYZ" title="Bitcoin XYZ" type="rss" 
+            xmlUrl="http://bitcoin.xyz/feed/" htmlUrl="http://bitcoin.xyz"/>
+      <outline text="CoinFabrik Blog" title="CoinFabrik Blog" type="rss" 
+            xmlUrl="https://blog.coinfabrik.com/feed/" htmlUrl="https://blog.coinfabrik.com"/>
+      <outline text="XBT.MONEY" title="XBT.MONEY" type="rss" 
+            xmlUrl="http://www.xbt.money/feed/" htmlUrl="http://www.xbt.money"/>
+      <outline text="Scrembo Paul" title="Scrembo Paul" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFRLkad3FXOJ5pyziEgDSTg" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFRLkad3FXOJ5pyziEgDSTg"/>
+      <outline text="thinkinghuman TV" title="thinkinghuman TV" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu_ZGG7JcrXwztkB3FcaAHw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu_ZGG7JcrXwztkB3FcaAHw"/>
+      <outline text="TheChartGuys" title="TheChartGuys" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnqZ2hx679DqRi6khRUNw2g" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnqZ2hx679DqRi6khRUNw2g"/>
+      <outline text="CryptoGrinders" title="CryptoGrinders" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEhFzdgTPR8MmeL0z-xbA3g" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEhFzdgTPR8MmeL0z-xbA3g"/>
+      <outline text="Cryptobud" title="Cryptobud" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAEktd4wejD_N4aPyDPD3zw" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAEktd4wejD_N4aPyDPD3zw"/>
+      <outline text="Cedric Dahl - YouTube" title="Cedric Dahl - YouTube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUoE4kAxLnLByLko06EaaOQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUoE4kAxLnLByLko06EaaOQ"/>
+      <outline text="Chris Dunn - YouTube" title="Chris Dunn - YouTube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdC3h2m88FC02Yw-A_VESRQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdC3h2m88FC02Yw-A_VESRQ"/>
+      <outline text="aantonop - YouTube" title="aantonop - YouTube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJWCJCWOxBYSi5DhCieLOLQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJWCJCWOxBYSi5DhCieLOLQ"/>
+      <outline text="Dr10" title="Dr10" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeHRNR2ZzEtWXgiVDsRETYQ" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeHRNR2ZzEtWXgiVDsRETYQ"/>
+      <outline text="CoinSutra – Bitcoin Community" title="CoinSutra – Bitcoin Community" type="rss" 
+            xmlUrl="https://coinsutra.com/feed/" htmlUrl="https://coinsutra.com"/>
+      <outline text="CryptoHackers" title="CryptoHackers" type="rss" 
+            xmlUrl="https://cryptohackers.party/feed/" htmlUrl="https://cryptohackers.party" entryContent="2"/>
+      <outline text="CoinSpeaker" title="CoinSpeaker" type="rss" 
+            xmlUrl="https://www.coinspeaker.com/feed/" htmlUrl="https://www.coinspeaker.com"/>
+      <outline text="Cryptocurrency Events" title="Cryptocurrency Events" type="rss" 
+            xmlUrl="http://www.coinscalendar.com/feed/" htmlUrl="http://www.coinscalendar.com"/>
+      <outline text="Bitcoin Tech Talk - Medium" title="Bitcoin Tech Talk - Medium" type="rss" 
+            xmlUrl="https://bitcointechtalk.com/feed" htmlUrl="https://bitcointechtalk.com?source=rss----5c0ebc7f2bb0---4"/>
+      <outline text="Startup Management" title="Startup Management" type="rss" 
+            xmlUrl="http://startupmanagement.org/feed/" htmlUrl="http://startupmanagement.org"/>
+      <outline text="The Merkle" title="The Merkle" type="rss" 
+            xmlUrl="https://themerkle.com/feed/" htmlUrl="https://themerkle.com"/>
+      <outline text="Crypt0" title="Crypt0" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdUSSt-IEUg2eq46rD7lu_g" htmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdUSSt-IEUg2eq46rD7lu_g"/>
+  </outline>
+  <outline title="Finance Blogs" text="Finance Blogs">
+      <outline text="Peter Schiff" title="Peter Schiff" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/PeterSchiffsEconomicCommentary" htmlUrl="http://www.europac.com/commentaries/peter_schiff"/>
+      <outline text="MoneyBeat" title="MoneyBeat RSS Feed" type="rss" 
+            xmlUrl="http://blogs.wsj.com/moneybeat/feed/" htmlUrl="https://blogs.wsj.com/moneybeat"/>
+      <outline text="Zero Hedge" title="Zero Hedge" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/zerohedge/feed" htmlUrl="http://www.zerohedge.com/fullrss2.xml/PhoneBook"/>
+      <outline text="FT Alphaville" title="FT Alphaville" type="rss" 
+            xmlUrl="http://ftalphaville.ft.com/feed/" htmlUrl="http://ftalphaville.ft.com"/>
+      <outline text="Buttonwood&#39;s notebook" title="Buttonwood&#39;s notebook" type="rss" 
+            xmlUrl="http://www.economist.com/blogs/buttonwood/index.xml" htmlUrl="https://www.economist.com/blogs/buttonwood"/>
+      <outline text="The Reformed Broker" title="The Reformed Broker" type="rss" 
+            xmlUrl="http://www.thereformedbroker.com/feed/" htmlUrl="http://thereformedbroker.com"/>
+      <outline text="Economist&#39;s View" title="Economist&#39;s View" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/EconomistsView" htmlUrl="http://economistsview.typepad.com/economistsview/"/>
+      <outline text="True Contrarian" title="True Contrarian - Atom" type="rss" 
+            xmlUrl="http://truecontrarian-sjk.blogspot.com/feeds/posts/default" htmlUrl="http://truecontrarian-sjk.blogspot.com/"/>
+      <outline text="The Daily Gold » Feed" title="The Daily Gold » Feed" type="rss" 
+            xmlUrl="http://thedailygold.com/feed/" htmlUrl="http://thedailygold.com"/>
+      <outline text="Calculated Risk" title="Calculated Risk" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/CalculatedRisk" htmlUrl="http://www.calculatedriskblog.com/"/>
+      <outline text="Vitaliy Katsenelson Contrarian Edge" title="Vitaliy Katsenelson Contrarian Edge" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ContrarianEdge" htmlUrl="http://contrarianedge.com"/>
+      <outline text="Abnormal Returns" title="Abnormal Returns Atom Feed" type="rss" 
+            xmlUrl="http://abnormalreturns.com/feed/atom/" htmlUrl="https://abnormalreturns.com"/>
+      <outline text="PRAGMATIC CAPITALISM » Feed" title="PRAGMATIC CAPITALISM » Feed" type="rss" 
+            xmlUrl="http://pragcap.com/feed" htmlUrl="https://www.pragcap.com"/>
+      <outline text="Stock Market Analysis" title="Stock Market Analysis - Atom" type="rss" 
+            xmlUrl="http://daytradingstockblog.blogspot.com/feeds/posts/default" htmlUrl="http://daytradingstockblog.blogspot.com/"/>
+      <outline text="The bclund Blog » Feed" title="The bclund Blog » Feed" type="rss" 
+            xmlUrl="http://bclund.com/feed/" htmlUrl="https://bclund.com"/>
+      <outline text="Hanson Advisers RSS Feed" title="Hanson Advisers RSS Feed" type="rss" 
+            xmlUrl="http://mhanson.com/feed" htmlUrl="https://mhanson.com"/>
+      <outline text="Business Insider" title="Business Insider" type="rss" 
+            xmlUrl="http://feeds2.feedburner.com/businessinsider" htmlUrl="http://www.businessinsider.com"/>
+      <outline text="Econbrowser » Feed" title="Econbrowser » Feed" type="rss" 
+            xmlUrl="http://econbrowser.com/feed" htmlUrl="http://econbrowser.com"/>
+      <outline text="Dealbreaker » Feed" title="Dealbreaker » Feed" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/dealbreaker" htmlUrl="https://dealbreaker.com"/>
+      <outline text="naked capitalism" title="naked capitalism" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/NakedCapitalism" htmlUrl="https://www.nakedcapitalism.com"/>
+      <outline text="Real Time Economics RSS Feed" title="Real Time Economics RSS Feed" type="rss" 
+            xmlUrl="http://blogs.wsj.com/economics/feed/" htmlUrl="https://blogs.wsj.com/economics"/>
+      <outline text="Free exchange" title="Free exchange" type="rss" 
+            xmlUrl="http://www.economist.com/blogs/freeexchange/atom.xml" htmlUrl="http://www.economist.com/blogs/freeexchange/atom.xml"/>
+      <outline text="Planet Money" title="Planet Money" type="rss" 
+            xmlUrl="http://www.npr.org/rss/rss.php?id=93559255" htmlUrl="https://www.npr.org/sections/money/"/>
+      <outline text="Peter Schiff Blog" title="Peter Schiff Blog" type="rss" 
+            xmlUrl="http://peterschiffblog.blogspot.com/feeds/posts/default" htmlUrl="http://peterschiffblog.blogspot.com/"/>
+      <outline text="NYT &#62; DealBook" title="NYT &#62; DealBook" type="rss" 
+            xmlUrl="http://dealbook.nytimes.com/feed/" htmlUrl="https://www.nytimes.com/section/business/dealbook?partner=rss&amp;emc=rss"/>
+      <outline text="Max Keiser » Feed" title="Max Keiser » Feed" type="rss" 
+            xmlUrl="http://www.maxkeiser.com/feed/" htmlUrl="http://www.maxkeiser.com"/>
+      <outline text="Mr. Money Mustache feed" title="Mr. Money Mustache feed" type="rss" 
+            xmlUrl="http://www.mrmoneymustache.com/feed/" htmlUrl="http://www.mrmoneymustache.com"/>
+      <outline text="Pragmatic Capitalism » Feed" title="Pragmatic Capitalism » Feed" type="rss" 
+            xmlUrl="http://www.pragcap.com/feed/" htmlUrl="https://www.pragcap.com"/>
+      <outline text="Marc to Market - Atom" title="Marc to Market - Atom" type="rss" 
+            xmlUrl="http://www.marctomarket.com/feeds/posts/default" htmlUrl="http://www.marctomarket.com/"/>
+  </outline>
+  <outline title="Finance" text="Finance">
+      <outline text="Reuters: Business News" title="Reuters: Business News" type="rss" 
+            xmlUrl="http://feeds.reuters.com/reuters/businessNews" htmlUrl="http://www.reuters.com"/>
+      <outline text="Financial Times - Markets" title="Financial Times - Markets" type="rss" 
+            xmlUrl="http://www.ft.com/rss/markets" htmlUrl="https://www.ft.com/stream/d969d76e-f8f4-34ae-bc38-95cfd0884740"/>
+      <outline text="Economist - Economic Issues" title="Economist - Economic Issues" type="rss" 
+            xmlUrl="http://www.economist.com/topics/economics/index.xml" htmlUrl="http://www.economist.com/topics/economics"/>
+      <outline text="South China Morning Post - Business" title="South China Morning Post - Business" type="rss" 
+            xmlUrl="http://www.scmp.com/rss/92/feed" htmlUrl="http://www.scmp.com/rss/92/feed"/>
+      <outline text="The Tell" title="The Tell RSS Feed" type="rss" 
+            xmlUrl="http://blogs.marketwatch.com/thetell/feed/" htmlUrl="http://blogs.marketwatch.com/thetell"/>
+      <outline text="MarketWatch.com - Real-time Headlines" title="MarketWatch.com - Real-time Headlines" type="rss" 
+            xmlUrl="http://feeds.marketwatch.com/marketwatch/realtimeheadlines/" htmlUrl="http://www.marketwatch.com/search/?query=&amp;mode=Keyword&amp;modeparam=90&amp;siteid=rss"/>
+      <outline text="All Articles on Seeking Alpha" title="All Articles on Seeking Alpha" type="rss" 
+            xmlUrl="http://seekingalpha.com/feed.xml" htmlUrl="https://seekingalpha.com" entryContent="3" scanDelay="525600"/>
+      <outline text="CNNMoney.com" title="Latest stock market news from Wall Street - CNNMoney.com" type="rss" 
+            xmlUrl="http://rss.cnn.com/rss/money_markets.rss" htmlUrl="http://money.cnn.com/markets/?section=money_markets" entryContent="3"/>
+      <outline text="Business - Google News" title="Google Business News" type="rss" 
+            xmlUrl="https://news.google.com/news/rss/headlines/section/topic/BUSINESS?ned=us&amp;hl=en&amp;gl=GB" htmlUrl="https://news.google.coms/rss/headlines/section/topic/BUSINESS?ned=us&amp;hl=en&amp;gl=GB"/>
+  </outline>
+</body>
+</opml>
