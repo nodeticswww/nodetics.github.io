@@ -9,6 +9,12 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 .btn {
   border-radius: 3em;
+  max-width: 100%;
+  white-space: normal;
+  font-size: 1.2em;
+}
+div.container > h2 > p {
+	text-align: center;
 }
 .navbar {
   background: transparent;
@@ -59,6 +65,7 @@ body, h1, h2, h3, h4, h5, h6 {
   height: 500px;
   text-align: left;
   margin: 0;
+  min-height: 500px;
 }
 .jumbotron h1 {
   background: #fff;
