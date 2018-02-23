@@ -42,3 +42,14 @@ Required extension permissions:
     open the extension always in a new tab which might cause synchronization problems.
 - "Display notifications"
     This is needed in order to show Reminder alerts for the tasks that you have defined a deadline and a reminder.
+
+	
+Cookiebro Privacy Policy
+-----------------------
+
+Cookiebro fully respects your privacy.
+
+Required extension permissions:
+- "Access your data for all websites"
+    This permission is needed so that Cookiebro can handle cookies from any source.
+
