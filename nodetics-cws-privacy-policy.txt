@@ -30,7 +30,7 @@ Kanbanly fully respects your privacy.
 
 Kanbanly
 - Uses Google Tasks API to access/modify/save your tasks
-- Uses Google identity API to login
+- Uses Google identity API to login (on Firefox it uses allizom.org domain which is Mozilla backwards and owned by Mozilla)
 - Does NOT collect or store any personal information about you or your actions locally or on the Internet servers
 
 Required extension permissions:
