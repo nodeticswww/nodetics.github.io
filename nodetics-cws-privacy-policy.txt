@@ -53,3 +53,20 @@ Required extension permissions:
 - "Access your data for all websites"
     This permission is needed so that Cookiebro can handle cookies from any source.
 
+
+PageProbe Privacy Policy
+------------------------
+
+PageProbe fully respects your privacy and does not collect any data.
+
+
+LinCV Privacy Policy
+------------------------
+
+LinCV fully respects your privacy and does not collect any data.
+
+
+SearchMage Privacy Policy
+------------------------
+
+SearchMage fully respects your privacy and does not collect any data.
