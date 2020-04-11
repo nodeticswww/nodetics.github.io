@@ -1,5 +1,5 @@
-Nodetics Chrome Web Store & Mozilla Add-on Store Privacy Policies
-=================================================================
+Nodetics Chrome Web Store & Mozilla Add-on Store & Microsoft Edge Add-on Store Privacy Policies
+===============================================================================================
 
 Feedbro Privacy Policy
 ----------------------
@@ -63,7 +63,8 @@ PageProbe fully respects your privacy and does not collect any data.
 LinCV Privacy Policy
 ------------------------
 
-LinCV fully respects your privacy and does not collect any data.
+LinCV fully respects your privacy. All data extracted from LinkedIn is fully kept inside your browser and nothing is sent anywhere.
+LinCV only has access to linkedin.com domain and cannot thus access any other sites.
 
 
 SearchMage Privacy Policy
