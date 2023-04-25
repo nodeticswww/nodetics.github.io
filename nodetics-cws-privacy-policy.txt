@@ -78,5 +78,11 @@ SayAI Privacy Policy
 
 SayAI fully respects your privacy and does not collect any data about your actions.
 
-SayAI uses secure httpsOnly cookie to store your OpenAI API key (in case you want to support speech-to-text) that
-never leaves the browser.
+Required extension permissions:
+- "cookies"
+     SayAI uses secure httpsOnly cookie to store your OpenAI API key (in case you want to support speech-to-text) that
+     never leaves the browser.
+- "host permission" (chat.openai.com)
+     Needed for adding features to the ChatGPT UI
+- "host permission" (api.openai.com)
+     Needed for using OpenAI speech-to-text API
