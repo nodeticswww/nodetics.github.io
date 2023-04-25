@@ -76,7 +76,7 @@ SearchMage fully respects your privacy and does not collect any data.
 SayAI Privacy Policy
 ------------------------
 
-SayAI fully respects your privacy and does not collect any data your actions.
+SayAI fully respects your privacy and does not collect any data about your actions.
 
 SayAI uses secure httpsOnly cookie to store your OpenAI API key (in case you want to support speech-to-text) that
 never leaves the browser.
